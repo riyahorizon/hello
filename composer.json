@@ -1,5 +1,7 @@
 {
-    "name": "riyahorizon/hello-world",
+    "name": "riyahorizon/hello-world",   
+    "type": "yii2-extension",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "riyahorizon"
