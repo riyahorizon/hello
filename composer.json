@@ -1,0 +1,14 @@
+{
+    "name": "riyahorizon/hello-world",
+    "authors": [
+        {
+            "name": "riyahorizon"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "MyExtention": "src/"
+        }
+    }
+}
